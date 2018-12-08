@@ -1,0 +1,15 @@
+{
+  "name": "main.js",
+  "version": "1.0.0",
+  "description": "Simple cross-platform system monitor",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "sys-info-app"
+  },
+  "author": "Shai Farkash",
+  "license": "ISC"
+}
