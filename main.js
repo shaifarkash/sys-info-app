@@ -1,5 +1,5 @@
 const {app, BrowserWindow} = require('electron');
-const patch = require('path');
+const path = require('path');
 const url = require('url');
 
 // init win
